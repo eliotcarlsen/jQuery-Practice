@@ -1,8 +1,13 @@
-.col-md-4{
+.col-md-3{
   border:2px solid black;
   height:200px;
   margin: 5px;
 }
-p{
+p {
   display:none;
+}
+
+h1:hover {
+  cursor:pointer;
+  color: blue;
 }
