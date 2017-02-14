@@ -26,4 +26,7 @@ $(function(){
   $("#topH").click(function() {
     $("#cardH").toggle("#showCard");
   });
+  $("#domCard").click(function() {
+    $("#domDescription").toggle("#showCard");
+  });
   });
